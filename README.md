@@ -1,5 +1,7 @@
-# 💫 About Me:
-Hi, I’m Ayan Ghosh — a Data Quality Analyst at Imperial Brands PLC <br>passionate about AI, Data Engineering, and Machine Learning. <br>Skilled in Python, SQL, Azure, Databricks, Tableau, and Power BI, <br>I enjoy building data-driven solutions that create measurable business<br> impact.<br><br>Previously worked on wealth analytics at ICICI Securities <br>and Generative AI market research at TCS, <br>with achievements including Asian Paints Trailblazer Winner (2025) <br>and Tata Imagination Challenge Semifinalist (2024).<br><br>
+# About Me:
+Hi, I’m Ayan Ghosh — an data science enthusiast passionate about AI, Data Engineering, and Machine Learning. Skilled in Python, SQL, Azure, Databricks, Tableau, and Power BI, I enjoy building data-driven solutions that create measurable business impact.
+
+Previously worked on wealth analytics at ICICI Securities and Generative AI market research at TCS, <br>with achievements including Asian Paints Trailblazer Winner (2025) <br>and Tata Imagination Challenge Semifinalist (2024).
 
 
 ## 🌐 Socials:
