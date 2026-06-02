@@ -1,5 +1,5 @@
 # About Me:
-Hi, I’m Ayan Ghosh — Cuurenly working as Data Analyst, passionate about AI, Data Engineering, and Machine Learning. Skilled in Python, SQL, Azure, Databricks, Tableau, and Power BI, I enjoy building data-driven solutions that create measurable business impact.
+Hi, I’m Ayan Ghosh — Currently working as Data Analyst, passionate about AI, Data Engineering, and Machine Learning. Skilled in Python, SQL, Azure, Databricks, Tableau, and Power BI, I enjoy building data-driven solutions that create measurable business impact.
 
 Previously worked on wealth analytics at ICICI Securities and Generative AI Market Research at TCS, with achievements including Asian Paints Trailblazer Winner (2025) and Tata Imagination Challenge Semifinalist (2024).
 
